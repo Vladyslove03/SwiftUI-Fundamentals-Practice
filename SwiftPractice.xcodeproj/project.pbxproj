@@ -23,6 +23,8 @@
 		8C67B1C12F578DCE008287A1 /* ScrollVievPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C67B1C02F578DCE008287A1 /* ScrollVievPractice.swift */; };
 		8C67B1C32F5794A7008287A1 /* GridPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C67B1C22F5794A7008287A1 /* GridPractice.swift */; };
 		8C67B1C72F585928008287A1 /* ButtonsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C67B1C62F585928008287A1 /* ButtonsPractice.swift */; };
+		8C75DF032F5997AB005E9CA0 /* ExtractedFunctionPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C75DF022F5997AB005E9CA0 /* ExtractedFunctionPractice.swift */; };
+		8C75DF052F599C5F005E9CA0 /* ExtractSubviewsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C75DF042F599C5F005E9CA0 /* ExtractSubviewsPractice.swift */; };
 		8C7881182F558D5B00C94DF7 /* BackgroundAndOverlayPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C7881172F558D5B00C94DF7 /* BackgroundAndOverlayPractice.swift */; };
 		8CF529C22F52FE9800498B76 /* IconsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CF529C12F52FE9800498B76 /* IconsPractice.swift */; };
 		8CF529C52F530B3E00498B76 /* ImagePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CF529C42F530B3E00498B76 /* ImagePractice.swift */; };
@@ -46,6 +48,8 @@
 		8C67B1C02F578DCE008287A1 /* ScrollVievPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollVievPractice.swift; sourceTree = "<group>"; };
 		8C67B1C22F5794A7008287A1 /* GridPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridPractice.swift; sourceTree = "<group>"; };
 		8C67B1C62F585928008287A1 /* ButtonsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsPractice.swift; sourceTree = "<group>"; };
+		8C75DF022F5997AB005E9CA0 /* ExtractedFunctionPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctionPractice.swift; sourceTree = "<group>"; };
+		8C75DF042F599C5F005E9CA0 /* ExtractSubviewsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubviewsPractice.swift; sourceTree = "<group>"; };
 		8C7881172F558D5B00C94DF7 /* BackgroundAndOverlayPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayPractice.swift; sourceTree = "<group>"; };
 		8CF529C12F52FE9800498B76 /* IconsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsPractice.swift; sourceTree = "<group>"; };
 		8CF529C42F530B3E00498B76 /* ImagePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePractice.swift; sourceTree = "<group>"; };
@@ -93,6 +97,8 @@
 				8C67B1C62F585928008287A1 /* ButtonsPractice.swift */,
 				8C53317B2F5861BE0011A606 /* StatePractice.swift */,
 				8C67B1C22F5794A7008287A1 /* GridPractice.swift */,
+				8C75DF022F5997AB005E9CA0 /* ExtractedFunctionPractice.swift */,
+				8C75DF042F599C5F005E9CA0 /* ExtractSubviewsPractice.swift */,
 				8C4D12A02F56E8740014322B /* PaddingAndSpacerPractice.swift */,
 				8C3D5AC12F51063B00F76D28 /* ShapesPractice.swift */,
 				8C4D12A42F5712C70014322B /* FramePractice.swift */,
@@ -185,6 +191,7 @@
 				8C3D5AC22F51063B00F76D28 /* ShapesPractice.swift in Sources */,
 				8C67B1C12F578DCE008287A1 /* ScrollVievPractice.swift in Sources */,
 				8C53317C2F5861BE0011A606 /* StatePractice.swift in Sources */,
+				8C75DF032F5997AB005E9CA0 /* ExtractedFunctionPractice.swift in Sources */,
 				8C67B1C32F5794A7008287A1 /* GridPractice.swift in Sources */,
 				8C67B1BF2F5788B7008287A1 /* ForEachPractice.swift in Sources */,
 				8C4D129D2F5599E10014322B /* StacksPractice.swift in Sources */,
@@ -192,6 +199,7 @@
 				8C7881182F558D5B00C94DF7 /* BackgroundAndOverlayPractice.swift in Sources */,
 				8C3D5AC02F51004400F76D28 /* TextPractice.swift in Sources */,
 				8C5A1FAA2F5070B000097E18 /* SwiftPracticeApp.swift in Sources */,
+				8C75DF052F599C5F005E9CA0 /* ExtractSubviewsPractice.swift in Sources */,
 				8CF529C22F52FE9800498B76 /* IconsPractice.swift in Sources */,
 				8C4D12A32F56EF990014322B /* InitializerPractice.swift in Sources */,
 				8C67B1C72F585928008287A1 /* ButtonsPractice.swift in Sources */,
