@@ -25,6 +25,7 @@
 		8C67B1C72F585928008287A1 /* ButtonsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C67B1C62F585928008287A1 /* ButtonsPractice.swift */; };
 		8C717D112F5EC80800D890F0 /* ListPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C717D102F5EC80800D890F0 /* ListPractice.swift */; };
 		8C717D132F5EE0D700D890F0 /* AlertPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C717D122F5EE0D700D890F0 /* AlertPractice.swift */; };
+		8C717D152F6014BA00D890F0 /* ActionSheetPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C717D142F6014BA00D890F0 /* ActionSheetPractice.swift */; };
 		8C75DF032F5997AB005E9CA0 /* ExtractedFunctionPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C75DF022F5997AB005E9CA0 /* ExtractedFunctionPractice.swift */; };
 		8C75DF052F599C5F005E9CA0 /* ExtractSubviewsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C75DF042F599C5F005E9CA0 /* ExtractSubviewsPractice.swift */; };
 		8C75DF072F59A187005E9CA0 /* BindingPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C75DF062F59A187005E9CA0 /* BindingPractice.swift */; };
@@ -61,6 +62,7 @@
 		8C67B1C62F585928008287A1 /* ButtonsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsPractice.swift; sourceTree = "<group>"; };
 		8C717D102F5EC80800D890F0 /* ListPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListPractice.swift; sourceTree = "<group>"; };
 		8C717D122F5EE0D700D890F0 /* AlertPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertPractice.swift; sourceTree = "<group>"; };
+		8C717D142F6014BA00D890F0 /* ActionSheetPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetPractice.swift; sourceTree = "<group>"; };
 		8C75DF022F5997AB005E9CA0 /* ExtractedFunctionPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctionPractice.swift; sourceTree = "<group>"; };
 		8C75DF042F599C5F005E9CA0 /* ExtractSubviewsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubviewsPractice.swift; sourceTree = "<group>"; };
 		8C75DF062F59A187005E9CA0 /* BindingPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingPractice.swift; sourceTree = "<group>"; };
@@ -114,6 +116,7 @@
 				8CF529C12F52FE9800498B76 /* IconsPractice.swift */,
 				8C4D129C2F5599E10014322B /* StacksPractice.swift */,
 				8C67B1BE2F5788B7008287A1 /* ForEachPractice.swift */,
+				8C717D142F6014BA00D890F0 /* ActionSheetPractice.swift */,
 				8C3D5ABF2F51004400F76D28 /* TextPractice.swift */,
 				8CFEE6A52F5C602E00B20DE4 /* TransitionPractice.swift */,
 				8C67B1C02F578DCE008287A1 /* ScrollVievPractice.swift */,
@@ -249,6 +252,7 @@
 				8C67B1C72F585928008287A1 /* ButtonsPractice.swift in Sources */,
 				8C3D5AC82F51DC0900F76D28 /* GradientsPractice.swift in Sources */,
 				8CF529C52F530B3E00498B76 /* ImagePractice.swift in Sources */,
+				8C717D152F6014BA00D890F0 /* ActionSheetPractice.swift in Sources */,
 				8C4D12A52F5712C70014322B /* FramePractice.swift in Sources */,
 				8C3D5AC42F51C6D100F76D28 /* ColorPractice.swift in Sources */,
 			);
