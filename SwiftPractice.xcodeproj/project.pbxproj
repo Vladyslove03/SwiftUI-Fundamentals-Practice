@@ -18,6 +18,7 @@
 		8C4D12A32F56EF990014322B /* InitializerPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C4D12A22F56EF990014322B /* InitializerPractice.swift */; };
 		8C4D12A52F5712C70014322B /* FramePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C4D12A42F5712C70014322B /* FramePractice.swift */; };
 		8C4F5DE52F6087B300F33285 /* TextEditorPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C4F5DE42F6087B300F33285 /* TextEditorPractice.swift */; };
+		8C4F5DE72F608D0600F33285 /* TogglePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C4F5DE62F608D0600F33285 /* TogglePractice.swift */; };
 		8C53317C2F5861BE0011A606 /* StatePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C53317B2F5861BE0011A606 /* StatePractice.swift */; };
 		8C5A1FAA2F5070B000097E18 /* SwiftPracticeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C5A1FA92F5070B000097E18 /* SwiftPracticeApp.swift */; };
 		8C5A1FAE2F5070B300097E18 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C5A1FAD2F5070B300097E18 /* Assets.xcassets */; };
@@ -57,6 +58,7 @@
 		8C4D12A22F56EF990014322B /* InitializerPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerPractice.swift; sourceTree = "<group>"; };
 		8C4D12A42F5712C70014322B /* FramePractice.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FramePractice.swift; sourceTree = "<group>"; };
 		8C4F5DE42F6087B300F33285 /* TextEditorPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorPractice.swift; sourceTree = "<group>"; };
+		8C4F5DE62F608D0600F33285 /* TogglePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TogglePractice.swift; sourceTree = "<group>"; };
 		8C53317B2F5861BE0011A606 /* StatePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatePractice.swift; sourceTree = "<group>"; };
 		8C5A1FA62F5070B000097E18 /* SwiftPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C5A1FA92F5070B000097E18 /* SwiftPracticeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftPracticeApp.swift; sourceTree = "<group>"; };
@@ -124,6 +126,7 @@
 				8C67B1BE2F5788B7008287A1 /* ForEachPractice.swift */,
 				8C717D142F6014BA00D890F0 /* ActionSheetPractice.swift */,
 				8C3D5ABF2F51004400F76D28 /* TextPractice.swift */,
+				8C4F5DE62F608D0600F33285 /* TogglePractice.swift */,
 				8CFEE6A52F5C602E00B20DE4 /* TransitionPractice.swift */,
 				8C67B1C02F578DCE008287A1 /* ScrollVievPractice.swift */,
 				8C4F5DE42F6087B300F33285 /* TextEditorPractice.swift */,
@@ -252,6 +255,7 @@
 				8C7881182F558D5B00C94DF7 /* BackgroundAndOverlayPractice.swift in Sources */,
 				8CFEE6AA2F5DA4A000B20DE4 /* PopoverPractice.swift in Sources */,
 				8CFEE6A42F5B134E00B20DE4 /* AnimationTimingPractice.swift in Sources */,
+				8C4F5DE72F608D0600F33285 /* TogglePractice.swift in Sources */,
 				8CFEE6A22F5B09C700B20DE4 /* AnimationPractice.swift in Sources */,
 				8C3D5AC02F51004400F76D28 /* TextPractice.swift in Sources */,
 				8CFEE6A62F5C602E00B20DE4 /* TransitionPractice.swift in Sources */,
