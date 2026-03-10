@@ -21,6 +21,7 @@
 		8C4F5DE72F608D0600F33285 /* TogglePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C4F5DE62F608D0600F33285 /* TogglePractice.swift */; };
 		8C4F5DE92F608EC100F33285 /* PickerPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C4F5DE82F608EC100F33285 /* PickerPractice.swift */; };
 		8C4F5DEB2F609A9D00F33285 /* ColorPickerPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C4F5DEA2F609A9D00F33285 /* ColorPickerPractice.swift */; };
+		8C4F5DED2F609F3800F33285 /* DatePickerPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C4F5DEC2F609F3800F33285 /* DatePickerPractice.swift */; };
 		8C53317C2F5861BE0011A606 /* StatePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C53317B2F5861BE0011A606 /* StatePractice.swift */; };
 		8C5A1FAA2F5070B000097E18 /* SwiftPracticeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C5A1FA92F5070B000097E18 /* SwiftPracticeApp.swift */; };
 		8C5A1FAE2F5070B300097E18 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C5A1FAD2F5070B300097E18 /* Assets.xcassets */; };
@@ -63,6 +64,7 @@
 		8C4F5DE62F608D0600F33285 /* TogglePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TogglePractice.swift; sourceTree = "<group>"; };
 		8C4F5DE82F608EC100F33285 /* PickerPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerPractice.swift; sourceTree = "<group>"; };
 		8C4F5DEA2F609A9D00F33285 /* ColorPickerPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerPractice.swift; sourceTree = "<group>"; };
+		8C4F5DEC2F609F3800F33285 /* DatePickerPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerPractice.swift; sourceTree = "<group>"; };
 		8C53317B2F5861BE0011A606 /* StatePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatePractice.swift; sourceTree = "<group>"; };
 		8C5A1FA62F5070B000097E18 /* SwiftPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C5A1FA92F5070B000097E18 /* SwiftPracticeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftPracticeApp.swift; sourceTree = "<group>"; };
@@ -122,42 +124,43 @@
 			isa = PBXGroup;
 			children = (
 				8C5A1FA92F5070B000097E18 /* SwiftPracticeApp.swift */,
-				8C7881172F558D5B00C94DF7 /* BackgroundAndOverlayPractice.swift */,
+				8C3D5ABF2F51004400F76D28 /* TextPractice.swift */,
+				8C3D5AC12F51063B00F76D28 /* ShapesPractice.swift */,
 				8C3D5AC32F51C6D000F76D28 /* ColorPractice.swift */,
 				8C3D5AC72F51DC0900F76D28 /* GradientsPractice.swift */,
 				8CF529C12F52FE9800498B76 /* IconsPractice.swift */,
+				8CF529C42F530B3E00498B76 /* ImagePractice.swift */,
+				8C4D12A42F5712C70014322B /* FramePractice.swift */,
+				8C7881172F558D5B00C94DF7 /* BackgroundAndOverlayPractice.swift */,
 				8C4D129C2F5599E10014322B /* StacksPractice.swift */,
+				8C4D12A02F56E8740014322B /* PaddingAndSpacerPractice.swift */,
+				8C4D12A22F56EF990014322B /* InitializerPractice.swift */,
 				8C67B1BE2F5788B7008287A1 /* ForEachPractice.swift */,
-				8C717D142F6014BA00D890F0 /* ActionSheetPractice.swift */,
-				8C3D5ABF2F51004400F76D28 /* TextPractice.swift */,
-				8C4F5DE62F608D0600F33285 /* TogglePractice.swift */,
-				8CFEE6A52F5C602E00B20DE4 /* TransitionPractice.swift */,
 				8C67B1C02F578DCE008287A1 /* ScrollVievPractice.swift */,
-				8C4F5DE82F608EC100F33285 /* PickerPractice.swift */,
-				8C4F5DEA2F609A9D00F33285 /* ColorPickerPractice.swift */,
-				8C4F5DE42F6087B300F33285 /* TextEditorPractice.swift */,
-				8CFEE6A72F5C6E6300B20DE4 /* SheetsPractice.swift */,
-				8C0FF1CA2F602FE6007DF5A7 /* TextFieldPractice.swift */,
-				8C0FF1C82F6029AA007DF5A7 /* ContextMenuPractice.swift */,
-				8CFEE6AB2F5DAC5000B20DE4 /* NavigationViewPractice.swift */,
-				8C717D122F5EE0D700D890F0 /* AlertPractice.swift */,
+				8C67B1C22F5794A7008287A1 /* GridPractice.swift */,
 				8C67B1C62F585928008287A1 /* ButtonsPractice.swift */,
 				8C53317B2F5861BE0011A606 /* StatePractice.swift */,
-				8C717D102F5EC80800D890F0 /* ListPractice.swift */,
-				8C67B1C22F5794A7008287A1 /* GridPractice.swift */,
-				8CFEE6A12F5B09C700B20DE4 /* AnimationPractice.swift */,
-				8CFEE6A92F5DA4A000B20DE4 /* PopoverPractice.swift */,
-				8CFEE6A32F5B134E00B20DE4 /* AnimationTimingPractice.swift */,
 				8C75DF022F5997AB005E9CA0 /* ExtractedFunctionPractice.swift */,
+				8C75DF042F599C5F005E9CA0 /* ExtractSubviewsPractice.swift */,
 				8C75DF062F59A187005E9CA0 /* BindingPractice.swift */,
 				8C75DF082F59A936005E9CA0 /* ConditionalPractice.swift */,
 				8CFEE69F2F5B03B400B20DE4 /* TernaryPractice.swift */,
-				8C75DF042F599C5F005E9CA0 /* ExtractSubviewsPractice.swift */,
-				8C4D12A02F56E8740014322B /* PaddingAndSpacerPractice.swift */,
-				8C3D5AC12F51063B00F76D28 /* ShapesPractice.swift */,
-				8C4D12A42F5712C70014322B /* FramePractice.swift */,
-				8CF529C42F530B3E00498B76 /* ImagePractice.swift */,
-				8C4D12A22F56EF990014322B /* InitializerPractice.swift */,
+				8CFEE6A12F5B09C700B20DE4 /* AnimationPractice.swift */,
+				8CFEE6A32F5B134E00B20DE4 /* AnimationTimingPractice.swift */,
+				8CFEE6A52F5C602E00B20DE4 /* TransitionPractice.swift */,
+				8CFEE6A72F5C6E6300B20DE4 /* SheetsPractice.swift */,
+				8CFEE6A92F5DA4A000B20DE4 /* PopoverPractice.swift */,
+				8CFEE6AB2F5DAC5000B20DE4 /* NavigationViewPractice.swift */,
+				8C717D102F5EC80800D890F0 /* ListPractice.swift */,
+				8C717D122F5EE0D700D890F0 /* AlertPractice.swift */,
+				8C717D142F6014BA00D890F0 /* ActionSheetPractice.swift */,
+				8C0FF1C82F6029AA007DF5A7 /* ContextMenuPractice.swift */,
+				8C0FF1CA2F602FE6007DF5A7 /* TextFieldPractice.swift */,
+				8C4F5DE42F6087B300F33285 /* TextEditorPractice.swift */,
+				8C4F5DE62F608D0600F33285 /* TogglePractice.swift */,
+				8C4F5DE82F608EC100F33285 /* PickerPractice.swift */,
+				8C4F5DEA2F609A9D00F33285 /* ColorPickerPractice.swift */,
+				8C4F5DEC2F609F3800F33285 /* DatePickerPractice.swift */,
 				8C5A1FAD2F5070B300097E18 /* Assets.xcassets */,
 				8C5A1FAF2F5070B300097E18 /* Preview Content */,
 			);
@@ -274,6 +277,7 @@
 				8C67B1C72F585928008287A1 /* ButtonsPractice.swift in Sources */,
 				8C3D5AC82F51DC0900F76D28 /* GradientsPractice.swift in Sources */,
 				8CF529C52F530B3E00498B76 /* ImagePractice.swift in Sources */,
+				8C4F5DED2F609F3800F33285 /* DatePickerPractice.swift in Sources */,
 				8C717D152F6014BA00D890F0 /* ActionSheetPractice.swift in Sources */,
 				8C4F5DE92F608EC100F33285 /* PickerPractice.swift in Sources */,
 				8C4D12A52F5712C70014322B /* FramePractice.swift in Sources */,
