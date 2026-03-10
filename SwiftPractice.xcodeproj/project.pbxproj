@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		8C0FF1C92F6029AA007DF5A7 /* ContextMenuPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C0FF1C82F6029AA007DF5A7 /* ContextMenuPractice.swift */; };
+		8C0FF1CB2F602FE6007DF5A7 /* TextFieldPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C0FF1CA2F602FE6007DF5A7 /* TextFieldPractice.swift */; };
 		8C3D5AC02F51004400F76D28 /* TextPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C3D5ABF2F51004400F76D28 /* TextPractice.swift */; };
 		8C3D5AC22F51063B00F76D28 /* ShapesPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C3D5AC12F51063B00F76D28 /* ShapesPractice.swift */; };
 		8C3D5AC42F51C6D100F76D28 /* ColorPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C3D5AC32F51C6D000F76D28 /* ColorPractice.swift */; };
@@ -45,6 +46,7 @@
 
 /* Begin PBXFileReference section */
 		8C0FF1C82F6029AA007DF5A7 /* ContextMenuPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuPractice.swift; sourceTree = "<group>"; };
+		8C0FF1CA2F602FE6007DF5A7 /* TextFieldPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldPractice.swift; sourceTree = "<group>"; };
 		8C3D5ABF2F51004400F76D28 /* TextPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextPractice.swift; sourceTree = "<group>"; };
 		8C3D5AC12F51063B00F76D28 /* ShapesPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesPractice.swift; sourceTree = "<group>"; };
 		8C3D5AC32F51C6D000F76D28 /* ColorPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPractice.swift; sourceTree = "<group>"; };
@@ -123,6 +125,7 @@
 				8CFEE6A52F5C602E00B20DE4 /* TransitionPractice.swift */,
 				8C67B1C02F578DCE008287A1 /* ScrollVievPractice.swift */,
 				8CFEE6A72F5C6E6300B20DE4 /* SheetsPractice.swift */,
+				8C0FF1CA2F602FE6007DF5A7 /* TextFieldPractice.swift */,
 				8C0FF1C82F6029AA007DF5A7 /* ContextMenuPractice.swift */,
 				8CFEE6AB2F5DAC5000B20DE4 /* NavigationViewPractice.swift */,
 				8C717D122F5EE0D700D890F0 /* AlertPractice.swift */,
@@ -238,6 +241,7 @@
 				8C67B1C32F5794A7008287A1 /* GridPractice.swift in Sources */,
 				8C67B1BF2F5788B7008287A1 /* ForEachPractice.swift in Sources */,
 				8C75DF072F59A187005E9CA0 /* BindingPractice.swift in Sources */,
+				8C0FF1CB2F602FE6007DF5A7 /* TextFieldPractice.swift in Sources */,
 				8CFEE6AC2F5DAC5000B20DE4 /* NavigationViewPractice.swift in Sources */,
 				8C717D132F5EE0D700D890F0 /* AlertPractice.swift in Sources */,
 				8C4D129D2F5599E10014322B /* StacksPractice.swift in Sources */,
@@ -388,7 +392,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"SwiftNews/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "";
 				DEVELOPMENT_TEAM = AKFKM4B2S5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -417,7 +421,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"SwiftNews/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "";
 				DEVELOPMENT_TEAM = AKFKM4B2S5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;

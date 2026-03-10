@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftPracticeApp: App {
     var body: some Scene {
         WindowGroup {
-            ColorPractice()
+            TextFieldPractice()
         }
     }
 }
