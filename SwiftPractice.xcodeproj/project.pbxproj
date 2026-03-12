@@ -38,6 +38,7 @@
 		8C75DF072F59A187005E9CA0 /* BindingPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C75DF062F59A187005E9CA0 /* BindingPractice.swift */; };
 		8C75DF092F59A936005E9CA0 /* ConditionalPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C75DF082F59A936005E9CA0 /* ConditionalPractice.swift */; };
 		8C7881182F558D5B00C94DF7 /* BackgroundAndOverlayPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C7881172F558D5B00C94DF7 /* BackgroundAndOverlayPractice.swift */; };
+		8CB3B40A2F62BD7A0031F943 /* DarkModePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CB3B4092F62BD7A0031F943 /* DarkModePractice.swift */; };
 		8CD88E1F2F6173C60033E9AA /* StepperPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD88E1E2F6173C60033E9AA /* StepperPractice.swift */; };
 		8CD88E212F6177560033E9AA /* SliderPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD88E202F6177560033E9AA /* SliderPractice.swift */; };
 		8CD88E232F62B2550033E9AA /* TabViewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD88E222F62B2550033E9AA /* TabViewPractice.swift */; };
@@ -85,6 +86,7 @@
 		8C75DF062F59A187005E9CA0 /* BindingPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingPractice.swift; sourceTree = "<group>"; };
 		8C75DF082F59A936005E9CA0 /* ConditionalPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalPractice.swift; sourceTree = "<group>"; };
 		8C7881172F558D5B00C94DF7 /* BackgroundAndOverlayPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayPractice.swift; sourceTree = "<group>"; };
+		8CB3B4092F62BD7A0031F943 /* DarkModePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModePractice.swift; sourceTree = "<group>"; };
 		8CD88E1E2F6173C60033E9AA /* StepperPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperPractice.swift; sourceTree = "<group>"; };
 		8CD88E202F6177560033E9AA /* SliderPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderPractice.swift; sourceTree = "<group>"; };
 		8CD88E222F62B2550033E9AA /* TabViewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewPractice.swift; sourceTree = "<group>"; };
@@ -170,6 +172,7 @@
 				8CD88E1E2F6173C60033E9AA /* StepperPractice.swift */,
 				8CD88E202F6177560033E9AA /* SliderPractice.swift */,
 				8CD88E222F62B2550033E9AA /* TabViewPractice.swift */,
+				8CB3B4092F62BD7A0031F943 /* DarkModePractice.swift */,
 				8C5A1FAD2F5070B300097E18 /* Assets.xcassets */,
 				8C5A1FAF2F5070B300097E18 /* Preview Content */,
 			);
@@ -269,6 +272,7 @@
 				8C0FF1CB2F602FE6007DF5A7 /* TextFieldPractice.swift in Sources */,
 				8CD88E212F6177560033E9AA /* SliderPractice.swift in Sources */,
 				8CFEE6AC2F5DAC5000B20DE4 /* NavigationViewPractice.swift in Sources */,
+				8CB3B40A2F62BD7A0031F943 /* DarkModePractice.swift in Sources */,
 				8C717D132F5EE0D700D890F0 /* AlertPractice.swift in Sources */,
 				8C4D129D2F5599E10014322B /* StacksPractice.swift in Sources */,
 				8C4D12A12F56E8740014322B /* PaddingAndSpacerPractice.swift in Sources */,
