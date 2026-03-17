@@ -41,6 +41,7 @@
 		8C7D99922F6848FA00BC7836 /* OnAppearPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C7D99912F6848FA00BC7836 /* OnAppearPractice.swift */; };
 		8C7D99942F684DE700BC7836 /* IfLetGuardPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C7D99932F684DE700BC7836 /* IfLetGuardPractice.swift */; };
 		8C7D99962F695E7E00BC7836 /* OnTapGesturePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C7D99952F695E7D00BC7836 /* OnTapGesturePractice.swift */; };
+		8C7D99982F6962E800BC7836 /* ModelPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C7D99972F6962E800BC7836 /* ModelPractice.swift */; };
 		8CB3B40A2F62BD7A0031F943 /* DarkModePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CB3B4092F62BD7A0031F943 /* DarkModePractice.swift */; };
 		8CB3B40C2F65AAC40031F943 /* DocumentationPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CB3B40B2F65AAC40031F943 /* DocumentationPractice.swift */; };
 		8CD88E1F2F6173C60033E9AA /* StepperPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD88E1E2F6173C60033E9AA /* StepperPractice.swift */; };
@@ -93,6 +94,7 @@
 		8C7D99912F6848FA00BC7836 /* OnAppearPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearPractice.swift; sourceTree = "<group>"; };
 		8C7D99932F684DE700BC7836 /* IfLetGuardPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IfLetGuardPractice.swift; sourceTree = "<group>"; };
 		8C7D99952F695E7D00BC7836 /* OnTapGesturePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnTapGesturePractice.swift; sourceTree = "<group>"; };
+		8C7D99972F6962E800BC7836 /* ModelPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelPractice.swift; sourceTree = "<group>"; };
 		8CB3B4092F62BD7A0031F943 /* DarkModePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModePractice.swift; sourceTree = "<group>"; };
 		8CB3B40B2F65AAC40031F943 /* DocumentationPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentationPractice.swift; sourceTree = "<group>"; };
 		8CD88E1E2F6173C60033E9AA /* StepperPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperPractice.swift; sourceTree = "<group>"; };
@@ -185,6 +187,7 @@
 				8C7D99912F6848FA00BC7836 /* OnAppearPractice.swift */,
 				8C7D99932F684DE700BC7836 /* IfLetGuardPractice.swift */,
 				8C7D99952F695E7D00BC7836 /* OnTapGesturePractice.swift */,
+				8C7D99972F6962E800BC7836 /* ModelPractice.swift */,
 				8C5A1FAD2F5070B300097E18 /* Assets.xcassets */,
 				8C5A1FAF2F5070B300097E18 /* Preview Content */,
 			);
@@ -280,6 +283,7 @@
 				8C717D112F5EC80800D890F0 /* ListPractice.swift in Sources */,
 				8C53317C2F5861BE0011A606 /* StatePractice.swift in Sources */,
 				8C75DF032F5997AB005E9CA0 /* ExtractedFunctionPractice.swift in Sources */,
+				8C7D99982F6962E800BC7836 /* ModelPractice.swift in Sources */,
 				8C67B1C32F5794A7008287A1 /* GridPractice.swift in Sources */,
 				8C4F5DEB2F609A9D00F33285 /* ColorPickerPractice.swift in Sources */,
 				8C67B1BF2F5788B7008287A1 /* ForEachPractice.swift in Sources */,
