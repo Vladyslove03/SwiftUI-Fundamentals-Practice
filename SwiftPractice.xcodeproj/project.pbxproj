@@ -42,6 +42,7 @@
 		8C7D99942F684DE700BC7836 /* IfLetGuardPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C7D99932F684DE700BC7836 /* IfLetGuardPractice.swift */; };
 		8C7D99962F695E7E00BC7836 /* OnTapGesturePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C7D99952F695E7D00BC7836 /* OnTapGesturePractice.swift */; };
 		8C7D99982F6962E800BC7836 /* ModelPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C7D99972F6962E800BC7836 /* ModelPractice.swift */; };
+		8C7D999A2F6AB58500BC7836 /* ViewModelPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C7D99992F6AB58500BC7836 /* ViewModelPractice.swift */; };
 		8CB3B40A2F62BD7A0031F943 /* DarkModePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CB3B4092F62BD7A0031F943 /* DarkModePractice.swift */; };
 		8CB3B40C2F65AAC40031F943 /* DocumentationPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CB3B40B2F65AAC40031F943 /* DocumentationPractice.swift */; };
 		8CD88E1F2F6173C60033E9AA /* StepperPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD88E1E2F6173C60033E9AA /* StepperPractice.swift */; };
@@ -95,6 +96,7 @@
 		8C7D99932F684DE700BC7836 /* IfLetGuardPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IfLetGuardPractice.swift; sourceTree = "<group>"; };
 		8C7D99952F695E7D00BC7836 /* OnTapGesturePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnTapGesturePractice.swift; sourceTree = "<group>"; };
 		8C7D99972F6962E800BC7836 /* ModelPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelPractice.swift; sourceTree = "<group>"; };
+		8C7D99992F6AB58500BC7836 /* ViewModelPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelPractice.swift; sourceTree = "<group>"; };
 		8CB3B4092F62BD7A0031F943 /* DarkModePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModePractice.swift; sourceTree = "<group>"; };
 		8CB3B40B2F65AAC40031F943 /* DocumentationPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentationPractice.swift; sourceTree = "<group>"; };
 		8CD88E1E2F6173C60033E9AA /* StepperPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperPractice.swift; sourceTree = "<group>"; };
@@ -188,6 +190,7 @@
 				8C7D99932F684DE700BC7836 /* IfLetGuardPractice.swift */,
 				8C7D99952F695E7D00BC7836 /* OnTapGesturePractice.swift */,
 				8C7D99972F6962E800BC7836 /* ModelPractice.swift */,
+				8C7D99992F6AB58500BC7836 /* ViewModelPractice.swift */,
 				8C5A1FAD2F5070B300097E18 /* Assets.xcassets */,
 				8C5A1FAF2F5070B300097E18 /* Preview Content */,
 			);
@@ -297,6 +300,7 @@
 				8C4D12A12F56E8740014322B /* PaddingAndSpacerPractice.swift in Sources */,
 				8C7881182F558D5B00C94DF7 /* BackgroundAndOverlayPractice.swift in Sources */,
 				8CFEE6AA2F5DA4A000B20DE4 /* PopoverPractice.swift in Sources */,
+				8C7D999A2F6AB58500BC7836 /* ViewModelPractice.swift in Sources */,
 				8CFEE6A42F5B134E00B20DE4 /* AnimationTimingPractice.swift in Sources */,
 				8C4F5DE72F608D0600F33285 /* TogglePractice.swift in Sources */,
 				8CFEE6A22F5B09C700B20DE4 /* AnimationPractice.swift in Sources */,
