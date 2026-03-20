@@ -45,6 +45,9 @@
 		8C7D999A2F6AB58500BC7836 /* ViewModelPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C7D99992F6AB58500BC7836 /* ViewModelPractice.swift */; };
 		8C7D999C2F6BFCB700BC7836 /* EnvironmentObjectPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C7D999B2F6BFCB700BC7836 /* EnvironmentObjectPractice.swift */; };
 		8C7D999E2F6D526700BC7836 /* AppStoragePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C7D999D2F6D526600BC7836 /* AppStoragePractice.swift */; };
+		8C7D99A12F6D572B00BC7836 /* IntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C7D99A02F6D572B00BC7836 /* IntroView.swift */; };
+		8C7D99A32F6D5B6F00BC7836 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C7D99A22F6D5B6F00BC7836 /* OnboardingView.swift */; };
+		8C7D99A52F6D764A00BC7836 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C7D99A42F6D764900BC7836 /* ProfileView.swift */; };
 		8CB3B40A2F62BD7A0031F943 /* DarkModePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CB3B4092F62BD7A0031F943 /* DarkModePractice.swift */; };
 		8CB3B40C2F65AAC40031F943 /* DocumentationPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CB3B40B2F65AAC40031F943 /* DocumentationPractice.swift */; };
 		8CD88E1F2F6173C60033E9AA /* StepperPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD88E1E2F6173C60033E9AA /* StepperPractice.swift */; };
@@ -101,6 +104,9 @@
 		8C7D99992F6AB58500BC7836 /* ViewModelPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModelPractice.swift; sourceTree = "<group>"; };
 		8C7D999B2F6BFCB700BC7836 /* EnvironmentObjectPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObjectPractice.swift; sourceTree = "<group>"; };
 		8C7D999D2F6D526600BC7836 /* AppStoragePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStoragePractice.swift; sourceTree = "<group>"; };
+		8C7D99A02F6D572B00BC7836 /* IntroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroView.swift; sourceTree = "<group>"; };
+		8C7D99A22F6D5B6F00BC7836 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		8C7D99A42F6D764900BC7836 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		8CB3B4092F62BD7A0031F943 /* DarkModePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModePractice.swift; sourceTree = "<group>"; };
 		8CB3B40B2F65AAC40031F943 /* DocumentationPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentationPractice.swift; sourceTree = "<group>"; };
 		8CD88E1E2F6173C60033E9AA /* StepperPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperPractice.swift; sourceTree = "<group>"; };
@@ -197,6 +203,7 @@
 				8C7D99992F6AB58500BC7836 /* ViewModelPractice.swift */,
 				8C7D999B2F6BFCB700BC7836 /* EnvironmentObjectPractice.swift */,
 				8C7D999D2F6D526600BC7836 /* AppStoragePractice.swift */,
+				8C7D999F2F6D56E900BC7836 /* OnboardingViews */,
 				8C5A1FAD2F5070B300097E18 /* Assets.xcassets */,
 				8C5A1FAF2F5070B300097E18 /* Preview Content */,
 			);
@@ -209,6 +216,16 @@
 				8C5A1FB02F5070B300097E18 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		8C7D999F2F6D56E900BC7836 /* OnboardingViews */ = {
+			isa = PBXGroup;
+			children = (
+				8C7D99A02F6D572B00BC7836 /* IntroView.swift */,
+				8C7D99A22F6D5B6F00BC7836 /* OnboardingView.swift */,
+				8C7D99A42F6D764900BC7836 /* ProfileView.swift */,
+			);
+			path = OnboardingViews;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -291,6 +308,7 @@
 				8C0FF1C92F6029AA007DF5A7 /* ContextMenuPractice.swift in Sources */,
 				8C717D112F5EC80800D890F0 /* ListPractice.swift in Sources */,
 				8C53317C2F5861BE0011A606 /* StatePractice.swift in Sources */,
+				8C7D99A52F6D764A00BC7836 /* ProfileView.swift in Sources */,
 				8C75DF032F5997AB005E9CA0 /* ExtractedFunctionPractice.swift in Sources */,
 				8C7D99982F6962E800BC7836 /* ModelPractice.swift in Sources */,
 				8C67B1C32F5794A7008287A1 /* GridPractice.swift in Sources */,
@@ -318,6 +336,7 @@
 				8C5A1FAA2F5070B000097E18 /* SwiftPracticeApp.swift in Sources */,
 				8C75DF052F599C5F005E9CA0 /* ExtractSubviewsPractice.swift in Sources */,
 				8CF529C22F52FE9800498B76 /* IconsPractice.swift in Sources */,
+				8C7D99A32F6D5B6F00BC7836 /* OnboardingView.swift in Sources */,
 				8C4D12A32F56EF990014322B /* InitializerPractice.swift in Sources */,
 				8C67B1C72F585928008287A1 /* ButtonsPractice.swift in Sources */,
 				8C3D5AC82F51DC0900F76D28 /* GradientsPractice.swift in Sources */,
@@ -328,6 +347,7 @@
 				8C7D999E2F6D526700BC7836 /* AppStoragePractice.swift in Sources */,
 				8C4F5DE92F608EC100F33285 /* PickerPractice.swift in Sources */,
 				8C4D12A52F5712C70014322B /* FramePractice.swift in Sources */,
+				8C7D99A12F6D572B00BC7836 /* IntroView.swift in Sources */,
 				8C4F5DE52F6087B300F33285 /* TextEditorPractice.swift in Sources */,
 				8C3D5AC42F51C6D100F76D28 /* ColorPractice.swift in Sources */,
 				8CD88E232F62B2550033E9AA /* TabViewPractice.swift in Sources */,
