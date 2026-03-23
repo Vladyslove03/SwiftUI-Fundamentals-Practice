@@ -48,6 +48,7 @@
 		8C7D99A12F6D572B00BC7836 /* IntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C7D99A02F6D572B00BC7836 /* IntroView.swift */; };
 		8C7D99A32F6D5B6F00BC7836 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C7D99A22F6D5B6F00BC7836 /* OnboardingView.swift */; };
 		8C7D99A52F6D764A00BC7836 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C7D99A42F6D764900BC7836 /* ProfileView.swift */; };
+		8C7D99A72F713E9500BC7836 /* AsyncImagePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C7D99A62F713E9500BC7836 /* AsyncImagePractice.swift */; };
 		8CB3B40A2F62BD7A0031F943 /* DarkModePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CB3B4092F62BD7A0031F943 /* DarkModePractice.swift */; };
 		8CB3B40C2F65AAC40031F943 /* DocumentationPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CB3B40B2F65AAC40031F943 /* DocumentationPractice.swift */; };
 		8CD88E1F2F6173C60033E9AA /* StepperPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD88E1E2F6173C60033E9AA /* StepperPractice.swift */; };
@@ -107,6 +108,7 @@
 		8C7D99A02F6D572B00BC7836 /* IntroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroView.swift; sourceTree = "<group>"; };
 		8C7D99A22F6D5B6F00BC7836 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		8C7D99A42F6D764900BC7836 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		8C7D99A62F713E9500BC7836 /* AsyncImagePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImagePractice.swift; sourceTree = "<group>"; };
 		8CB3B4092F62BD7A0031F943 /* DarkModePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModePractice.swift; sourceTree = "<group>"; };
 		8CB3B40B2F65AAC40031F943 /* DocumentationPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentationPractice.swift; sourceTree = "<group>"; };
 		8CD88E1E2F6173C60033E9AA /* StepperPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperPractice.swift; sourceTree = "<group>"; };
@@ -204,6 +206,7 @@
 				8C7D999B2F6BFCB700BC7836 /* EnvironmentObjectPractice.swift */,
 				8C7D999D2F6D526600BC7836 /* AppStoragePractice.swift */,
 				8C7D999F2F6D56E900BC7836 /* OnboardingViews */,
+				8C7D99A62F713E9500BC7836 /* AsyncImagePractice.swift */,
 				8C5A1FAD2F5070B300097E18 /* Assets.xcassets */,
 				8C5A1FAF2F5070B300097E18 /* Preview Content */,
 			);
@@ -301,6 +304,7 @@
 				8CFEE6A82F5C6E6300B20DE4 /* SheetsPractice.swift in Sources */,
 				8CFEE6A02F5B03B400B20DE4 /* TernaryPractice.swift in Sources */,
 				8C7D99922F6848FA00BC7836 /* OnAppearPractice.swift in Sources */,
+				8C7D99A72F713E9500BC7836 /* AsyncImagePractice.swift in Sources */,
 				8C3D5AC22F51063B00F76D28 /* ShapesPractice.swift in Sources */,
 				8C67B1C12F578DCE008287A1 /* ScrollVievPractice.swift in Sources */,
 				8C7D99962F695E7E00BC7836 /* OnTapGesturePractice.swift in Sources */,
