@@ -49,6 +49,7 @@
 		8C7D99A32F6D5B6F00BC7836 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C7D99A22F6D5B6F00BC7836 /* OnboardingView.swift */; };
 		8C7D99A52F6D764A00BC7836 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C7D99A42F6D764900BC7836 /* ProfileView.swift */; };
 		8C7D99A72F713E9500BC7836 /* AsyncImagePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C7D99A62F713E9500BC7836 /* AsyncImagePractice.swift */; };
+		8C7D99A92F7143AE00BC7836 /* BackgroundMaterialsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C7D99A82F7143AE00BC7836 /* BackgroundMaterialsPractice.swift */; };
 		8CB3B40A2F62BD7A0031F943 /* DarkModePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CB3B4092F62BD7A0031F943 /* DarkModePractice.swift */; };
 		8CB3B40C2F65AAC40031F943 /* DocumentationPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CB3B40B2F65AAC40031F943 /* DocumentationPractice.swift */; };
 		8CD88E1F2F6173C60033E9AA /* StepperPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD88E1E2F6173C60033E9AA /* StepperPractice.swift */; };
@@ -109,6 +110,7 @@
 		8C7D99A22F6D5B6F00BC7836 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		8C7D99A42F6D764900BC7836 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		8C7D99A62F713E9500BC7836 /* AsyncImagePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImagePractice.swift; sourceTree = "<group>"; };
+		8C7D99A82F7143AE00BC7836 /* BackgroundMaterialsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundMaterialsPractice.swift; sourceTree = "<group>"; };
 		8CB3B4092F62BD7A0031F943 /* DarkModePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModePractice.swift; sourceTree = "<group>"; };
 		8CB3B40B2F65AAC40031F943 /* DocumentationPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentationPractice.swift; sourceTree = "<group>"; };
 		8CD88E1E2F6173C60033E9AA /* StepperPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperPractice.swift; sourceTree = "<group>"; };
@@ -207,6 +209,7 @@
 				8C7D999D2F6D526600BC7836 /* AppStoragePractice.swift */,
 				8C7D999F2F6D56E900BC7836 /* OnboardingViews */,
 				8C7D99A62F713E9500BC7836 /* AsyncImagePractice.swift */,
+				8C7D99A82F7143AE00BC7836 /* BackgroundMaterialsPractice.swift */,
 				8C5A1FAD2F5070B300097E18 /* Assets.xcassets */,
 				8C5A1FAF2F5070B300097E18 /* Preview Content */,
 			);
@@ -342,6 +345,7 @@
 				8CF529C22F52FE9800498B76 /* IconsPractice.swift in Sources */,
 				8C7D99A32F6D5B6F00BC7836 /* OnboardingView.swift in Sources */,
 				8C4D12A32F56EF990014322B /* InitializerPractice.swift in Sources */,
+				8C7D99A92F7143AE00BC7836 /* BackgroundMaterialsPractice.swift in Sources */,
 				8C67B1C72F585928008287A1 /* ButtonsPractice.swift in Sources */,
 				8C3D5AC82F51DC0900F76D28 /* GradientsPractice.swift in Sources */,
 				8CF529C52F530B3E00498B76 /* ImagePractice.swift in Sources */,
