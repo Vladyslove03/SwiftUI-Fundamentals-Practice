@@ -8,8 +8,42 @@
 import SwiftUI
 
 struct NativePopoverPractice: View {
+    
+    @State private var showPopover: Bool = false
+    @State private var feedbackOptions: [String] = [
+        "Very good 😊",
+        "Average 😌",
+        "Very bad 😡"
+    ]
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        ZStack {
+            Color.gray.ignoresSafeArea()
+            
+            Button("Provide feedback?") {
+                showPopover.toggle()
+            }
+            .padding(20)
+            .background(Color.yellow)
+            .popover(isPresented: $showPopover, attachmentAnchor: .point(.top), content: {
+                ScrollView {
+                    VStack(alignment: .leading, spacing: 12) {
+                        ForEach(feedbackOptions, id: \.self) { option in
+                            Button(option) {
+                                
+                            }
+                            if option != feedbackOptions.last {
+                                Divider()
+                            }
+                            
+                        }
+                    }
+                    .padding(20)
+                }
+                
+                .presentationCompactAdaptation(.popover)
+            })
+        }
     }
 }
 

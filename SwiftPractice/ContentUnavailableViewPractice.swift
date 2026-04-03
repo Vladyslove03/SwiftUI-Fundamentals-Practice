@@ -9,7 +9,10 @@ import SwiftUI
 
 struct ContentUnavailableViewPractice: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        ContentUnavailableView(
+            "No Internet Connection",
+            systemImage: "wifi.slash",
+            description: Text("Please connect to internet and try again."))
     }
 }
 

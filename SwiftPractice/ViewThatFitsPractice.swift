@@ -9,7 +9,19 @@ import SwiftUI
 
 struct ViewThatFitsPractice: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        ZStack {
+            Color.red.ignoresSafeArea()
+            
+            ViewThatFits {
+                Text("This is some text that I would like to display to the user")
+                Text("This is some text that I would like to display!")
+                Text("This is some text ")
+            }
+            
+        }
+        .frame(height: 300)
+        .padding(50)
+        .font(.headline)
     }
 }
 

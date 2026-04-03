@@ -68,8 +68,16 @@
 		8CFEE6A82F5C6E6300B20DE4 /* SheetsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CFEE6A72F5C6E6300B20DE4 /* SheetsPractice.swift */; };
 		8CFEE6AA2F5DA4A000B20DE4 /* PopoverPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CFEE6A92F5DA4A000B20DE4 /* PopoverPractice.swift */; };
 		8CFEE6AC2F5DAC5000B20DE4 /* NavigationViewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CFEE6AB2F5DAC5000B20DE4 /* NavigationViewPractice.swift */; };
+		CE17A5572F7EAEAC002D9343 /* AnyLayoutPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE17A5562F7EAEAC002D9343 /* AnyLayoutPractice.swift */; };
+		CE17A5592F7EB92E002D9343 /* ViewThatFitsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE17A5582F7EB92E002D9343 /* ViewThatFitsPractice.swift */; };
+		CE8FAAF42F7F9C050073CA8D /* ContentUnavailableViewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE8FAAF32F7F9C050073CA8D /* ContentUnavailableViewPractice.swift */; };
+		CE9A84962F7EBC0800B8429E /* GridViewPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9A84952F7EBC0800B8429E /* GridViewPractice.swift */; };
 		CEBED12F2F7D29FE0047699C /* NavigationStackPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEBED12E2F7D29FE0047699C /* NavigationStackPractice.swift */; };
 		CEBED1312F7D2A770047699C /* ToolbarPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEBED1302F7D2A770047699C /* ToolbarPractice.swift */; };
+		CEBED1332F7D2F3B0047699C /* ResizebleSheetPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEBED1322F7D2F3B0047699C /* ResizebleSheetPractice.swift */; };
+		CEC233EE2F7E5F9100946C22 /* AnimationUpdatedPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC233ED2F7E5F9100946C22 /* AnimationUpdatedPractice.swift */; };
+		CEC233F02F7E649300946C22 /* NativePopoverPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEC233EF2F7E649300946C22 /* NativePopoverPractice.swift */; };
+		CED37C5A2F7F9F01001F1941 /* ObservableMacroPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED37C592F7F9F01001F1941 /* ObservableMacroPractice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -135,8 +143,16 @@
 		8CFEE6A72F5C6E6300B20DE4 /* SheetsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsPractice.swift; sourceTree = "<group>"; };
 		8CFEE6A92F5DA4A000B20DE4 /* PopoverPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverPractice.swift; sourceTree = "<group>"; };
 		8CFEE6AB2F5DAC5000B20DE4 /* NavigationViewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewPractice.swift; sourceTree = "<group>"; };
+		CE17A5562F7EAEAC002D9343 /* AnyLayoutPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyLayoutPractice.swift; sourceTree = "<group>"; };
+		CE17A5582F7EB92E002D9343 /* ViewThatFitsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewThatFitsPractice.swift; sourceTree = "<group>"; };
+		CE8FAAF32F7F9C050073CA8D /* ContentUnavailableViewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentUnavailableViewPractice.swift; sourceTree = "<group>"; };
+		CE9A84952F7EBC0800B8429E /* GridViewPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridViewPractice.swift; sourceTree = "<group>"; };
 		CEBED12E2F7D29FE0047699C /* NavigationStackPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationStackPractice.swift; sourceTree = "<group>"; };
 		CEBED1302F7D2A770047699C /* ToolbarPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToolbarPractice.swift; sourceTree = "<group>"; };
+		CEBED1322F7D2F3B0047699C /* ResizebleSheetPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResizebleSheetPractice.swift; sourceTree = "<group>"; };
+		CEC233ED2F7E5F9100946C22 /* AnimationUpdatedPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationUpdatedPractice.swift; sourceTree = "<group>"; };
+		CEC233EF2F7E649300946C22 /* NativePopoverPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NativePopoverPractice.swift; sourceTree = "<group>"; };
+		CED37C592F7F9F01001F1941 /* ObservableMacroPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObservableMacroPractice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -228,6 +244,14 @@
 				8C2E594A2F7302CB002674B7 /* FocusStatePractice.swift */,
 				CEBED12E2F7D29FE0047699C /* NavigationStackPractice.swift */,
 				CEBED1302F7D2A770047699C /* ToolbarPractice.swift */,
+				CEBED1322F7D2F3B0047699C /* ResizebleSheetPractice.swift */,
+				CEC233ED2F7E5F9100946C22 /* AnimationUpdatedPractice.swift */,
+				CEC233EF2F7E649300946C22 /* NativePopoverPractice.swift */,
+				CE17A5562F7EAEAC002D9343 /* AnyLayoutPractice.swift */,
+				CE17A5582F7EB92E002D9343 /* ViewThatFitsPractice.swift */,
+				CE9A84952F7EBC0800B8429E /* GridViewPractice.swift */,
+				CE8FAAF32F7F9C050073CA8D /* ContentUnavailableViewPractice.swift */,
+				CED37C592F7F9F01001F1941 /* ObservableMacroPractice.swift */,
 				8C5A1FAD2F5070B300097E18 /* Assets.xcassets */,
 				8C5A1FAF2F5070B300097E18 /* Preview Content */,
 			);
@@ -327,6 +351,7 @@
 				8C7D99922F6848FA00BC7836 /* OnAppearPractice.swift in Sources */,
 				8C7D99A72F713E9500BC7836 /* AsyncImagePractice.swift in Sources */,
 				8C2E594B2F7302CB002674B7 /* FocusStatePractice.swift in Sources */,
+				CED37C5A2F7F9F01001F1941 /* ObservableMacroPractice.swift in Sources */,
 				8C3D5AC22F51063B00F76D28 /* ShapesPractice.swift in Sources */,
 				8C67B1C12F578DCE008287A1 /* ScrollVievPractice.swift in Sources */,
 				8C7D99962F695E7E00BC7836 /* OnTapGesturePractice.swift in Sources */,
@@ -340,13 +365,18 @@
 				8C7D99982F6962E800BC7836 /* ModelPractice.swift in Sources */,
 				8C67B1C32F5794A7008287A1 /* GridPractice.swift in Sources */,
 				8C4F5DEB2F609A9D00F33285 /* ColorPickerPractice.swift in Sources */,
+				CE17A5592F7EB92E002D9343 /* ViewThatFitsPractice.swift in Sources */,
+				CEC233EE2F7E5F9100946C22 /* AnimationUpdatedPractice.swift in Sources */,
 				8C67B1BF2F5788B7008287A1 /* ForEachPractice.swift in Sources */,
 				8C75DF072F59A187005E9CA0 /* BindingPractice.swift in Sources */,
+				CEBED1332F7D2F3B0047699C /* ResizebleSheetPractice.swift in Sources */,
 				8C0FF1CB2F602FE6007DF5A7 /* TextFieldPractice.swift in Sources */,
+				CE8FAAF42F7F9C050073CA8D /* ContentUnavailableViewPractice.swift in Sources */,
 				8CD88E212F6177560033E9AA /* SliderPractice.swift in Sources */,
 				8CFEE6AC2F5DAC5000B20DE4 /* NavigationViewPractice.swift in Sources */,
 				8C7D999C2F6BFCB700BC7836 /* EnvironmentObjectPractice.swift in Sources */,
 				8CB3B40A2F62BD7A0031F943 /* DarkModePractice.swift in Sources */,
+				CE17A5572F7EAEAC002D9343 /* AnyLayoutPractice.swift in Sources */,
 				8C717D132F5EE0D700D890F0 /* AlertPractice.swift in Sources */,
 				8C4D129D2F5599E10014322B /* StacksPractice.swift in Sources */,
 				8C4D12A12F56E8740014322B /* PaddingAndSpacerPractice.swift in Sources */,
@@ -371,11 +401,13 @@
 				8C67B1C72F585928008287A1 /* ButtonsPractice.swift in Sources */,
 				8C3D5AC82F51DC0900F76D28 /* GradientsPractice.swift in Sources */,
 				8CF529C52F530B3E00498B76 /* ImagePractice.swift in Sources */,
+				CEC233F02F7E649300946C22 /* NativePopoverPractice.swift in Sources */,
 				8CD88E1F2F6173C60033E9AA /* StepperPractice.swift in Sources */,
 				CEBED12F2F7D29FE0047699C /* NavigationStackPractice.swift in Sources */,
 				8C2E59492F7300FB002674B7 /* BadgesPractice.swift in Sources */,
 				8C4F5DED2F609F3800F33285 /* DatePickerPractice.swift in Sources */,
 				8C717D152F6014BA00D890F0 /* ActionSheetPractice.swift in Sources */,
+				CE9A84962F7EBC0800B8429E /* GridViewPractice.swift in Sources */,
 				8C7D999E2F6D526700BC7836 /* AppStoragePractice.swift in Sources */,
 				8C4F5DE92F608EC100F33285 /* PickerPractice.swift in Sources */,
 				8C4D12A52F5712C70014322B /* FramePractice.swift in Sources */,
